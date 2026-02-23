@@ -1,4 +1,4 @@
 ---
-title: "Page Title"
+title: "Traverse"
 layout: single
 ---
